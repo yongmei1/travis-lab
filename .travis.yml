@@ -4,6 +4,6 @@ python:
 
   - "2.7"
 
-script:
+script: 
 
--python hello.py
+  - python hello.py
